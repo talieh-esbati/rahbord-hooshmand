@@ -1,5 +1,3 @@
-'use client';
-
 import { Ghost } from 'lucide-react';
 import Link from 'next/link';
 
